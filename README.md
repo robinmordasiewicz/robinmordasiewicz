@@ -2,5 +2,5 @@
 comments: true
 ---
 # Robin Mordasiewicz
-[morning](img/background-picture.jpg)
+![morning](img/background-picture.jpg)
 
