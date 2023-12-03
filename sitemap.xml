@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://robinmordasiewicz.github.io/devops-toolkit/</loc>
+         <loc>https://robinmordasiewicz.github.io/robinmordasiewicz/</loc>
          <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robinmordasiewicz.github.io/devops-toolkit/concepts/</loc>
+         <loc>https://robinmordasiewicz.github.io/robinmordasiewicz/concepts/</loc>
          <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robinmordasiewicz.github.io/devops-toolkit/concepts/2023/11/30/source-code-management/</loc>
+         <loc>https://robinmordasiewicz.github.io/robinmordasiewicz/concepts/2023/11/30/source-code-management/</loc>
          <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://robinmordasiewicz.github.io/devops-toolkit/img/screenshots/</loc>
+         <loc>https://robinmordasiewicz.github.io/robinmordasiewicz/img/screenshots/</loc>
          <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
