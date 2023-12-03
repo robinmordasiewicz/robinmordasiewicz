@@ -1,3 +1,1 @@
-# Robin Mordasiewicz
-
-## About me
+--8<-- "README.md"
