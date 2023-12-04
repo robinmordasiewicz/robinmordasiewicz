@@ -1,4 +1,6 @@
 ---
 comments: true
 ---
---8<-- "README.md"
+# Robin Mordasiewicz
+
+[![morning](img/background-image.jpg)](https://robinmordasiewicz.github.io/robinmordasiewicz/)
